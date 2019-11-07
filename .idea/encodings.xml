@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/service_cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_cloud/service_cloud_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_cloud/service_cloud_consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_cloud/service_cloud_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_cloud/service_cloud_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_cloud/service_cloud_provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_cloud/spring_cloud_eurekaone" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service_cloud/spring_cloud_eurekatwo" charset="UTF-8" />
+  </component>
+</project>
