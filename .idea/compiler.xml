@@ -9,6 +9,7 @@
         <module name="service_cloud_api" />
         <module name="service_cloud_consumer" />
         <module name="service_cloud_provider" />
+        <module name="service_cloud_provider2" />
         <module name="spring_cloud_eurekaone" />
         <module name="spring_cloud_eurekatwo" />
       </profile>
@@ -18,7 +19,9 @@
       <module name="service_cloud_api" target="1.8" />
       <module name="service_cloud_consumer" target="1.8" />
       <module name="service_cloud_eureka" target="1.8" />
+      <module name="service_cloud_privider2" target="1.8" />
       <module name="service_cloud_provider" target="1.8" />
+      <module name="service_cloud_provider2" target="1.8" />
       <module name="spring_cloud_eurekaone" target="1.8" />
       <module name="spring_cloud_eurekatwo" target="1.8" />
     </bytecodeTargetLevel>

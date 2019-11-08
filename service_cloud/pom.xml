@@ -11,9 +11,10 @@
     <modules>
         <module>service_cloud_api</module>
         <module>service_cloud_provider</module>
-        <module>service_cloud_consumer</module>
         <module>spring_cloud_eurekaone</module>
         <module>spring_cloud_eurekatwo</module>
+        <module>service_cloud_provider2</module>
+        <module>service_cloud_consumer</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

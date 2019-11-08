@@ -1,2 +1,8 @@
-service:
+server:
   port: 80
+eureka:
+  client:
+    register-with-eureka: false #此EurekaServer不在注册到其他的注册中心
+    fetch-registry: true       #不在从其他中心中心拉取服务器信息
+    service-url:
+      defaultZone: http://eureka6001.com:6001/eureka,http://eureka6002.com:6002/eureka #注册中心访问地址

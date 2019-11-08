@@ -4,7 +4,7 @@ server:
 #EurekaServer配置
 eureka:
   instance:
-    hostname: EurekaServer6001
+    hostname: eureka6001.com
   client:
     register-with-eureka: false #此EurekaServer不在注册到其他的注册中心
     fetch-registry: false       #不在从其他中心中心拉取服务器信息
